@@ -5899,7 +5899,7 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Github');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://github.com/Cuongqtx11', '_blank');
+        window.open('https://cuongqtx11.github.io/Game/', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
