@@ -5897,7 +5897,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 document.addEventListener('DOMContentLoaded', function () {
-    var telegramDiv = document.querySelector('.Github');
+    var telegramDiv = document.querySelector('.Banking');
     telegramDiv.addEventListener('click', function () {
         window.open('https://cuongqtx11.github.io/Game/', '_blank');
     });
