@@ -5897,7 +5897,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 document.addEventListener('DOMContentLoaded', function () {
-    var telegramDiv = document.querySelector('.Github');
+    var telegramDiv = document.querySelector('.Banking');
     telegramDiv.addEventListener('click', function () {
         window.open('https://cuongqtx11.github.io/Game/', '_blank');
     });
@@ -5917,7 +5917,7 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Tiktok');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://tiktok.com/@user10851152', '_blank');
+        window.open('https://tiktok.com/@thawng_cuowng', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
