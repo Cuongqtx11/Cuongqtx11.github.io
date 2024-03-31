@@ -5892,7 +5892,7 @@ show_date_time();
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Telegram');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://t.me/Thangtompro', '_blank');
+        window.open('https://t.me/tomqtx1111', '_blank');
     });
 });
 
